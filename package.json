@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": ["education", "tea protocol", "nextjs", "tailwindcss"],
-  "author": "Farah Shabrina",
+  "author": "Farahshabrina",
   "license": "MIT",
   "private": false,
   "dependencies": {
