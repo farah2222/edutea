@@ -1,13 +1,18 @@
 {
-  "name": "edu-tea",
+  "name": "eduteabyfarahshabrina",
   "version": "0.1.0",
-  "private": true,
+  "description": "Project Edutea - Next.js app with Tailwind CSS",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": ["education", "tea protocol", "nextjs", "tailwindcss"],
+  "author": "Farah Shabrina",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "next": "13.4.7",
     "react": "18.2.0",
