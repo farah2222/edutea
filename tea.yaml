@@ -1,0 +1,19 @@
+name: edutea
+description: "Platform edukasi blockchain dan open-source dengan TEA Protocol"
+version: 0.1.0
+repository: https://github.com/farah2222/edutea
+author:
+  name: Farah Shabrina
+  github: farah2222
+wallet: 0xE54790d98f26184cc074d899E74bF3117e03916b
+license: MIT
+
+features:
+  - reward-contribution: true
+  - staking-access: true
+  - developer-reputation-index: true
+  - community-governance: true
+
+contact:
+  email: farahshabrina22@gmail.com
+  website: https://github.com/farah2222/edutea
